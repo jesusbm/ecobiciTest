@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Prueba Ecobici</string>
+
+    <plurals name="occupied_slots">
+        <item quantity="one">%d disponible</item>
+        <item quantity="other">%d disponibles</item>
+    </plurals>
+
+    <plurals name="empty_slots">
+        <item quantity="one">%d tomada</item>
+        <item quantity="other">%d tomadas</item>
+    </plurals>
+
+    <plurals name="distance_units">
+        <item quantity="one">%.0f m</item>
+        <item quantity="other">%.2f km</item>
+    </plurals>
+
+</resources>

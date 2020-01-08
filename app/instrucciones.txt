@@ -1,0 +1,6 @@
+1 Mostrar las estaciones de ecobici en una lista (RV)
+ * Dirección
+ * Lugares disponibles
+ * Bicicletas disponibles
+2 Ordenar por ubicación 19.4280974,-99.2044108 las estaciones (mostrar distancia en km)
+3 Elimninar las estaciones sin bicicletas disponibles
